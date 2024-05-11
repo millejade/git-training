@@ -1,0 +1,38 @@
+body{
+  background-color: black;
+  color: white;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
+p{
+  color: #fff ;
+}
+
+span{
+  font-family: serif;
+  font-weight: bold;
+}
+
+.highlight {
+  background: white;
+  color: black;
+}
+
+.genre {
+  font-style: italic;
+  background: white;
+  color: black;
+}
+
+div{
+  width: 500px;
+}
+
+.top-section {
+  background: #310343;
+}
+
+.bot-section {
+  background: #080343;
+}
